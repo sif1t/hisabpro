@@ -1129,7 +1129,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                       budgetPaisa: BdFormat.parseTakaToPaisa(_budgetCtrl.text),
                     );
                   },
-                  icon: const Icon(Icons.Rocket_launch_outlined),
+                  icon: const Icon(Icons.rocket_launch_outlined),
                   label: const Text('Start Using HisabPro'),
                 ),
               ),
